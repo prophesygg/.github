@@ -1,2 +1,2 @@
-# .github
-Github
+# Prophesy
+prophesy.gg
